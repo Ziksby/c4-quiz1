@@ -1,2 +1,2 @@
 # c4-quiz1
-The CSS 2024 summer school uct
+My CSS 2024 summer school github repo.
